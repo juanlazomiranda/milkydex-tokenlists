@@ -30,7 +30,7 @@
       "chainId": 2001,
       "name": "Multichain USDC",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
     },
     {
@@ -38,7 +38,7 @@
       "chainId": 2001,
       "name": "Multichain USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
     },
     {
