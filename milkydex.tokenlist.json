@@ -9,53 +9,6 @@
   "tags": {},
   "keywords": ["milkydex", "defi"],
   "tokens": [
-    {
-      "address": "0xbFf48aa58a6C9b4d08B1273D5Ba788b2aD836143",
-      "chainId": 2001,
-      "name": "MCKMID",
-      "symbol": "MCKMID",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0xbFf48aa58a6C9b4d08B1273D5Ba788b2aD836143/logo.png"
-    },
-    {
-      "name": "Wrapped ADA",
-      "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
-      "symbol": "WADA",
-      "decimals": 18,
-      "chainId": 2001,
-      "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9/logo.png"
-    },
-    {
-      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-      "chainId": 2001,
-      "name": "Multichain USDC",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
-    },
-    {
-      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-      "chainId": 2001,
-      "name": "Multichain USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
-    },
-    {
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-      "chainId": 2001,
-      "name": "Multichain ETH",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
-    },
-    {
-      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-      "chainId": 2001,
-      "name": "Multichain BTC",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
-    }
+    
   ]
 }
