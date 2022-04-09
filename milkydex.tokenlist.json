@@ -54,7 +54,7 @@
       "chainId": 2001,
       "name": "Multichain BTC",
       "symbol": "WBTC",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
     }
   ]
