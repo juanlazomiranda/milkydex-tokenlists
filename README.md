@@ -12,7 +12,7 @@ Submit pull request by adding your token logo 200X200 PNG.
 #### Normal Application
 Create an issue with the following info:
 - Token checksummed address
-- Token logo 200X200 PNG
+- Token logo 256X256 PNG
 - Submissions with links intead of attached images will be rejected. 
 - Submissions with invalid c-chain address will be rejected. 
 - Processed every 5-10 days.
