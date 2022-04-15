@@ -1,10 +1,10 @@
 {
   "name": "MilkyDex Token List",
-  "timestamp": "2022-04-08T00:00:00.000Z",
+  "timestamp": "2022-04-15T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "keywords": ["milkydex", "defi"],
@@ -12,8 +12,8 @@
     {
       "address": "0xbFf48aa58a6C9b4d08B1273D5Ba788b2aD836143",
       "chainId": 2001,
-      "name": "MCKMID",
-      "symbol": "MCKMID",
+      "name": "MID",
+      "symbol": "MID",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/milkydex/milkydex-tokenlists/master/logos/0xbFf48aa58a6C9b4d08B1273D5Ba788b2aD836143/logo.png"
     },
